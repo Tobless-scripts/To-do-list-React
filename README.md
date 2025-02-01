@@ -49,9 +49,9 @@ npm start
 ## Project Structure
 
 -   📂 src
--   ┣ 📜 Todo.js # Main To-Do List component
+-   ┣ 📜 Todo.jsx # Main To-Do List component
 -   ┣ 📜 Todo.css # Styles for the To-Do List
--   ┣ 📜 App.js # Root component
--   ┗ 📜 index.js # Entry point of the app
+-   ┣ 📜 App.jsx # Root component
+-   ┗ 📜 index.html # Entry point of the app
 
 ## 🌟 If you find this project helpful, don't forget to ⭐ star the repo!
