@@ -43,4 +43,16 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/Tobless-Scripts/todo-app.git
 cd todo-app
+npm install
+npm start
 ```
+
+## Project Structure
+
+-   📂 src
+-   ┣ 📜 Todo.js # Main To-Do List component
+-   ┣ 📜 Todo.css # Styles for the To-Do List
+-   ┣ 📜 App.js # Root component
+-   ┗ 📜 index.js # Entry point of the app
+
+## 🌟 If you find this project helpful, don't forget to ⭐ star the repo!
