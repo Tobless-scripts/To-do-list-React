@@ -13,8 +13,7 @@ This app allows users to **add, complete, and delete tasks**, with data stored i
 
 ## 🎨 UI Preview
 
-![To-Do List Preview](./preview.png)  
-(_Replace this with a screenshot of your app_)
+![To-Do List Preview](./src/assets/preview.png)
 
 ## 🛠️ Technologies Used
 
